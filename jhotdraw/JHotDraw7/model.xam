@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<model>
+
+	<components>
+		<component id="1363347603/1480686390078/0" name="org.jhotdraw"/>
+		<component id="1363347603/1480686396241/0" name="org.jhotdraw.app"/>
+		<component id="949161551/1485441871797/0" name="org.jhotdraw.app.osx"/>
+	</components>
+
+	<connectors>
+		<connector source="949161551/1485441871797/0" target="1363347603/1480686390078/0"/>
+		<connector source="949161551/1485441871797/0" target="1363347603/1480686396241/0"/>
+	</connectors>
+
+	<maping>
+		<map target="1363347603/1480686396241/0" handle="jdt:=JHotDraw7/src\/main\/java&lt;org.jhotdraw.app"/>
+		<map target="949161551/1485441871797/0" handle="jdt:=JHotDraw7/src\/main\/java&lt;org.jhotdraw.app.osx"/>
+		<map target="949161551/1485441871797/0" handle="jdt:=JHotDraw7/src\/main\/java&lt;org.jhotdraw.app{AbstractView.java"/>
+		<map target="1363347603/1480686390078/0" handle="jdt:=JHotDraw7/src\/main\/java&lt;org.jhotdraw"/>
+</maping>
+
+	<email url="Architect@company.com"/>	
+</model>

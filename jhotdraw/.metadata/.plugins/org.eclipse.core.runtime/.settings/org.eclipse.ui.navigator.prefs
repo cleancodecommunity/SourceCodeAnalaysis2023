@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+flints.ui.views.incomingDependencies.filterActivation=\:flints.ui.content.processedFilter\:
+flints.ui.views.outgoingDependencies.filterActivation=\:flints.ui.content.processedFilter\:

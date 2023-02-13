@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="195" key="DIALOG_X_ORIGIN"/>
+		<item value="20" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="500" key="dialogHeight"/>
+		<item value="800" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="ie.lero.ars.ui.wizards.NewArchitectureModelWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="ie.lero.ars"/>
+			<item value="org.eclipse.e4.tools"/>
+			<item value="org.eclipse.e4.tools/org.eclipse.e4.tools.model"/>
+			<item value="org.eclipse.m2e"/>
+			<item value="org.eclipse.oomph"/>
+		</list>
+	</section>
+	<section name="ShowViewDialog">
+		<item value="354" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="org.eclipse.ui.navigator.ProjectExplorer" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="423" key="DIALOG_HEIGHT"/>
+		<item value="548" key="DIALOG_X_ORIGIN"/>
+		<item value="202" key="DIALOG_Y_ORIGIN"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui"/>
+			<item value="org.eclipse.recommenders.rcp.views.root"/>
+			<item value="org.eclipse.jdt.ui.java.browsing"/>
+		</list>
+	</section>
+</section>
